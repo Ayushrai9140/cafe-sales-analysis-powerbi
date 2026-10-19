@@ -44,5 +44,5 @@ Excel, Power BI (DAX, data modelling)
 
 ## Files
 - `cafe_sales_cleaned.csv`: cleaned dataset
-- `cafe_sales_analysis.xlsx`: analysis workbook
+- `cafe_sales_analysis (1).xlsx`: analysis workbook
 - Dashboard screenshot (above)
