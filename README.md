@@ -14,7 +14,6 @@ A café wants to understand its 2023 sales performance: which items drive revenu
 - Converted Transaction Date to a proper date type
 - Added Month and Weekday columns from the date
 - Kept missing payment method and location values as "Unknown" instead of deleting rows, so revenue totals stay complete
-- (Add here any other steps you did while cleaning the raw file, such as fixing invalid values or filling missing prices)
 
 ## 4. Analysis
 Done in Excel (`cafe_sales_analysis.xlsx`: Summary, Item Analysis, Trends, Payment & Location, Insights sheets) and Power BI (DAX measures: Total Revenue, Total Transactions, Total Items Sold, Avg Order Value; Calendar table linked to Transaction Date).
@@ -47,4 +46,3 @@ Excel, Power BI (DAX, data modelling)
 - `cafe_sales_cleaned.csv`: cleaned dataset
 - `cafe_sales_analysis.xlsx`: analysis workbook
 - Dashboard screenshot (above)
-- `.pbix` Power BI file (to be added)
