@@ -16,7 +16,7 @@ A café wants to understand its 2023 sales performance: which items drive revenu
 - Kept missing payment method and location values as "Unknown" instead of deleting rows, so revenue totals stay complete
 
 ## 4. Analysis
-Done in Excel (`cafe_sales_analysis.xlsx`: Summary, Item Analysis, Trends, Payment & Location, Insights sheets) and Power BI (DAX measures: Total Revenue, Total Transactions, Total Items Sold, Avg Order Value; Calendar table linked to Transaction Date).
+Done in Excel (`cafe_sales_analysis (1).xlsx`: Summary, Item Analysis, Trends, Payment & Location, Insights sheets) and Power BI (DAX measures: Total Revenue, Total Transactions, Total Items Sold, Avg Order Value; Calendar table linked to Transaction Date).
 
 ## 5. Dashboard
 ![Dashboard](Screenshot%202026-10-17%20230820.png)
